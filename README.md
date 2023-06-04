@@ -2,7 +2,7 @@
 
 ### Description
 As part of learning the frontend developer profession at the Hexlet programming school, it is necessary to complete several real test tasks from a [public repository](https://github.com/Hexlet/ru-test-assignments).
-I have decided to choose three diverse test tasks to challenge my skills. The first one is a [layout task](https://docs.google.com/document/d/1BK6lOSnTEtI0V5K5idK_QJU6CC5Iv1-lhpGAGDqftkA/edit).
+I have decided to choose three diverse test tasks to challenge my skills. The first of them is a [layout task](https://docs.google.com/document/d/1BK6lOSnTEtI0V5K5idK_QJU6CC5Iv1-lhpGAGDqftkA/edit).
 
 ### Languages and Tools:
 <img align="left" alt="Visual Studio Code" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
